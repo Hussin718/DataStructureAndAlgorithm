@@ -33,7 +33,7 @@
 ## 📁 هيكلية المشروع
 
 ```text
-├── demo
+├── Project
 │   ├── maze.txt              # ملف إدخال المتاهة
 │   ├── maze_solution.png     # صورة الحل المستخرجة
 │   ├── src/main/java/com/example
