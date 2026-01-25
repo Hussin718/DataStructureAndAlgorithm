@@ -110,5 +110,5 @@ mvn exec:java -Dexec.mainClass="com.example.main.Main"
 ---
 
 ## 📝 مثال على المخرجات
-![Maze Solution](https://raw.githubusercontent.com/nbrasq/DataStructureAndAlgorithm/main/demo/maze_solution.png)
+![Maze Solution](https://raw.githubusercontent.com/nbrasq/DataStructureAndAlgorithm/main/Project/maze_solution.png)
 ---
