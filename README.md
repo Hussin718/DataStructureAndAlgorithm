@@ -110,5 +110,5 @@ mvn exec:java -Dexec.mainClass="com.example.main.Main"
 ---
 
 ## 📝 مثال على المخرجات
-![حل المتاهة](demo/maze_solution.png)
+![Maze Solution](./demo/maze_solution.png)
 ---
