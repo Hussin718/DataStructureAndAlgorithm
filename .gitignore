@@ -1,0 +1,9 @@
+demo/target/
+*.class
+demo/.settings/
+demo/.project
+demo/.classpath
+.vscode/
+.idea/
+demo/src/main/java/com/example.zip
+.DS_Store
