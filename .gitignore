@@ -1,9 +1,25 @@
-demo/target/
+# ملفات الترجمة والتشغيل (التي لا نحتاجها في GitHub)
+target/
 *.class
-demo/.settings/
-demo/.project
-demo/.classpath
-.vscode/
+*.jar
+*.war
+*.ear
+
+# ملفات مضغوطة غير ضرورية
+*.zip
+*.tar.gz
+
+# إعدادات بيئة التطوير (IntelliJ, VS Code, Eclipse)
 .idea/
-demo/src/main/java/com/example.zip
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# ملفات النظام
 .DS_Store
+Thumbs.db
+
+# ملفات السجلات (Logs)
+*.log
