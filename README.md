@@ -87,7 +87,7 @@ mvn clean install
 
 3. قم بتشغيل الملف الرئيسي:
 ```bash
-mvn exec:java -Dexec.mainClass="com.example.main.Main"
+mvn exec:java -Dexec.mainClass="com.code.main.Main"
 
 ```
 
